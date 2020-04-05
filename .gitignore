@@ -1,7 +1,6 @@
 .env
 generated
-datamodel.prisma
-prisma.yml
+build
 node_modules
 yarn.loack
 *.log
